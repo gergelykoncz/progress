@@ -1,0 +1,13 @@
+//
+//  CameraButton.h
+//  progressr
+//
+//  Created by Gergely Koncz on 27/09/2015.
+//  Copyright (c) 2015 Gergely Koncz. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface CameraButton : UIButton
+
+@end
